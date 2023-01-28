@@ -32,4 +32,4 @@ def index():
 if __name__ == "__main__":
 	app.run(debug=True, threaded=True)
 
-#https://api.telegram.org/bot5830914299:AAEyaoz_yGrTzVi2cLMeC6B91QWQho3fUp0/setWebhook?url=https://7c71-2409-4063-4d8f-81f1-fcee-2680-2ed6-eb74.in.ngrok.io
+#https://api.telegram.org/bot5830914299:AAEyaoz_yGrTzVi2cLMeC6B91QWQho3fUp0/setWebhook?url=https://c35e-2409-4063-4b9a-35c4-84c5-c0d8-566e-6f84.in.ngrok.io
