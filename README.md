@@ -5,7 +5,7 @@
 
 ----
 
-Telegram bot for pyguru channel.
+Telegram bot for pyguru channel. This bot helps in running python programs directly from telegram and also search for code generation using the OpenAI GPT 3 model.
 
 
 ----
@@ -15,6 +15,10 @@ Telegram bot for pyguru channel.
 * Clone this project from here [pyBot](https://github.com/pyGuru123/pyBot.git)
 * Install the requirements
 * Install ngrok
+* Create a file named .env
+* Add these lines into the .env file
+	TOKEN="YOUR_BOT_TOKEN_HERE"
+	BOTID="YOUR_BOT_ID_HERE"
 * Run the project from terminal using python app.py command
 * Run ngrok http 5000 command
 
@@ -25,10 +29,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install followi
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-
-* run app.py in python terminal and then goto http://127.0.0.1:5000/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
