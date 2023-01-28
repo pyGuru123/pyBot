@@ -1,0 +1,2 @@
+[console_scripts]
+lib_detect_testenv = lib_detect_testenv.lib_detect_testenv_cli:cli_main

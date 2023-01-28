@@ -10,9 +10,6 @@
 
 Telegram bot for pyguru channel.
 
-<!-- <p align='center'>
-  <img src='app.png' width=200 height=300>
-</p> -->
 
 ----
 
@@ -29,9 +26,7 @@ Telegram bot for pyguru channel.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
 
 ```bash
-pip install flask
-pip install requests
-pip instatll wrapt-timeout-decorator
+pip install -r requirements.txt
 ```
 
 ## Usage
