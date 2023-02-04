@@ -16,9 +16,9 @@ Telegram bot for pyguru channel. This bot helps in running python programs direc
 * Install the requirements
 * Install ngrok
 * Create a file named .env
-* Add these lines into the .env file
-	TOKEN="YOUR_BOT_TOKEN_HERE"
-	BOTID="YOUR_BOT_ID_HERE"
+* Add these lines into the .env file\
+	TOKEN="YOUR_BOT_TOKEN_HERE"\
+	BOTID="YOUR_BOT_ID_HERE"\ 
 * Run the project from terminal using python app.py command
 * Run ngrok http 5000 command
 
